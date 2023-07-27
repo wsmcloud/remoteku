@@ -1,5 +1,5 @@
 const httpPort = 3000;
-const kurentoIP = '127.0.0.1';
+const kurentoIP = '103.150.117.81';
 const kurentoPort = 8888;
 const fs = require('fs');
 const https = require('https');
